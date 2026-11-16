@@ -1,0 +1,289 @@
+date,city,state,aqi,aqi_category,dominant_pollutant
+2022-01-15,Delhi,Delhi,167,Moderate,PM2.5
+2022-01-15,Pune,Maharashtra,108,Moderate,PM10
+2022-01-15,Mumbai,Maharashtra,46,Good,CO
+2022-01-15,Ahmedabad,Gujarat,118,Moderate,NO2
+2022-01-15,Bengaluru,Karnataka,74,Satisfactory,PM10
+2022-01-15,Chennai,Tamil Nadu,111,Moderate,O3
+2022-01-15,Hyderabad,Telangana,101,Moderate,NO2
+2022-01-15,Lucknow,Uttar Pradesh,141,Moderate,PM2.5
+2022-02-15,Delhi,Delhi,104,Moderate,PM2.5
+2022-02-15,Pune,Maharashtra,46,Good,PM10
+2022-02-15,Mumbai,Maharashtra,25,Good,PM2.5
+2022-02-15,Ahmedabad,Gujarat,80,Satisfactory,O3
+2022-02-15,Bengaluru,Karnataka,15,Good,PM2.5
+2022-02-15,Chennai,Tamil Nadu,38,Good,PM2.5
+2022-02-15,Hyderabad,Telangana,45,Good,PM10
+2022-02-15,Lucknow,Uttar Pradesh,118,Moderate,CO
+2022-03-15,Delhi,Delhi,82,Satisfactory,PM2.5
+2022-03-15,Pune,Maharashtra,40,Good,PM2.5
+2022-03-15,Mumbai,Maharashtra,27,Good,PM10
+2022-03-15,Ahmedabad,Gujarat,29,Good,PM10
+2022-03-15,Bengaluru,Karnataka,28,Good,NO2
+2022-03-15,Chennai,Tamil Nadu,15,Good,PM2.5
+2022-03-15,Hyderabad,Telangana,18,Good,NO2
+2022-03-15,Lucknow,Uttar Pradesh,67,Satisfactory,PM2.5
+2022-04-15,Delhi,Delhi,116,Moderate,PM2.5
+2022-04-15,Pune,Maharashtra,41,Good,PM2.5
+2022-04-15,Mumbai,Maharashtra,37,Good,PM10
+2022-04-15,Ahmedabad,Gujarat,15,Good,NO2
+2022-04-15,Bengaluru,Karnataka,15,Good,PM10
+2022-04-15,Chennai,Tamil Nadu,18,Good,PM2.5
+2022-04-15,Hyderabad,Telangana,15,Good,PM10
+2022-04-15,Lucknow,Uttar Pradesh,22,Good,NO2
+2022-05-15,Delhi,Delhi,99,Satisfactory,PM10
+2022-05-15,Pune,Maharashtra,42,Good,PM2.5
+2022-05-15,Mumbai,Maharashtra,21,Good,PM2.5
+2022-05-15,Ahmedabad,Gujarat,71,Satisfactory,PM2.5
+2022-05-15,Bengaluru,Karnataka,15,Good,PM2.5
+2022-05-15,Chennai,Tamil Nadu,15,Good,PM2.5
+2022-05-15,Hyderabad,Telangana,38,Good,PM10
+2022-05-15,Lucknow,Uttar Pradesh,54,Satisfactory,NO2
+2022-06-15,Delhi,Delhi,130,Moderate,PM2.5
+2022-06-15,Pune,Maharashtra,56,Satisfactory,PM2.5
+2022-06-15,Mumbai,Maharashtra,40,Good,PM2.5
+2022-06-15,Ahmedabad,Gujarat,40,Good,PM10
+2022-06-15,Bengaluru,Karnataka,18,Good,PM10
+2022-06-15,Chennai,Tamil Nadu,57,Satisfactory,PM10
+2022-06-15,Hyderabad,Telangana,71,Satisfactory,PM2.5
+2022-06-15,Lucknow,Uttar Pradesh,74,Satisfactory,PM10
+2022-07-15,Delhi,Delhi,72,Satisfactory,PM2.5
+2022-07-15,Pune,Maharashtra,15,Good,CO
+2022-07-15,Mumbai,Maharashtra,59,Satisfactory,PM10
+2022-07-15,Ahmedabad,Gujarat,60,Satisfactory,CO
+2022-07-15,Bengaluru,Karnataka,21,Good,PM10
+2022-07-15,Chennai,Tamil Nadu,21,Good,PM2.5
+2022-07-15,Hyderabad,Telangana,31,Good,O3
+2022-07-15,Lucknow,Uttar Pradesh,106,Moderate,PM2.5
+2022-08-15,Delhi,Delhi,125,Moderate,PM10
+2022-08-15,Pune,Maharashtra,30,Good,NO2
+2022-08-15,Mumbai,Maharashtra,51,Satisfactory,PM10
+2022-08-15,Ahmedabad,Gujarat,75,Satisfactory,PM10
+2022-08-15,Bengaluru,Karnataka,70,Satisfactory,PM10
+2022-08-15,Chennai,Tamil Nadu,19,Good,PM2.5
+2022-08-15,Hyderabad,Telangana,60,Satisfactory,PM10
+2022-08-15,Lucknow,Uttar Pradesh,105,Moderate,PM2.5
+2022-09-15,Delhi,Delhi,131,Moderate,PM10
+2022-09-15,Pune,Maharashtra,15,Good,O3
+2022-09-15,Mumbai,Maharashtra,20,Good,PM2.5
+2022-09-15,Ahmedabad,Gujarat,65,Satisfactory,PM2.5
+2022-09-15,Bengaluru,Karnataka,15,Good,PM10
+2022-09-15,Chennai,Tamil Nadu,32,Good,PM2.5
+2022-09-15,Hyderabad,Telangana,84,Satisfactory,PM10
+2022-09-15,Lucknow,Uttar Pradesh,75,Satisfactory,PM10
+2022-10-15,Delhi,Delhi,41,Good,PM2.5
+2022-10-15,Pune,Maharashtra,15,Good,PM10
+2022-10-15,Mumbai,Maharashtra,15,Good,PM2.5
+2022-10-15,Ahmedabad,Gujarat,76,Satisfactory,O3
+2022-10-15,Bengaluru,Karnataka,15,Good,PM10
+2022-10-15,Chennai,Tamil Nadu,15,Good,PM10
+2022-10-15,Hyderabad,Telangana,33,Good,PM10
+2022-10-15,Lucknow,Uttar Pradesh,68,Satisfactory,PM2.5
+2022-11-15,Delhi,Delhi,147,Moderate,PM2.5
+2022-11-15,Pune,Maharashtra,65,Satisfactory,PM10
+2022-11-15,Mumbai,Maharashtra,148,Moderate,NO2
+2022-11-15,Ahmedabad,Gujarat,135,Moderate,PM2.5
+2022-11-15,Bengaluru,Karnataka,98,Satisfactory,PM2.5
+2022-11-15,Chennai,Tamil Nadu,86,Satisfactory,PM2.5
+2022-11-15,Hyderabad,Telangana,83,Satisfactory,PM2.5
+2022-11-15,Lucknow,Uttar Pradesh,118,Moderate,PM2.5
+2022-12-15,Delhi,Delhi,128,Moderate,O3
+2022-12-15,Pune,Maharashtra,129,Moderate,O3
+2022-12-15,Mumbai,Maharashtra,92,Satisfactory,PM10
+2022-12-15,Ahmedabad,Gujarat,147,Moderate,NO2
+2022-12-15,Bengaluru,Karnataka,64,Satisfactory,PM2.5
+2022-12-15,Chennai,Tamil Nadu,100,Satisfactory,PM10
+2022-12-15,Hyderabad,Telangana,104,Moderate,O3
+2022-12-15,Lucknow,Uttar Pradesh,95,Satisfactory,PM2.5
+2023-01-15,Delhi,Delhi,203,Poor,PM2.5
+2023-01-15,Pune,Maharashtra,80,Satisfactory,PM10
+2023-01-15,Mumbai,Maharashtra,67,Satisfactory,PM2.5
+2023-01-15,Ahmedabad,Gujarat,131,Moderate,CO
+2023-01-15,Bengaluru,Karnataka,74,Satisfactory,PM2.5
+2023-01-15,Chennai,Tamil Nadu,98,Satisfactory,PM2.5
+2023-01-15,Hyderabad,Telangana,102,Moderate,PM10
+2023-01-15,Lucknow,Uttar Pradesh,78,Satisfactory,PM10
+2023-02-15,Delhi,Delhi,73,Satisfactory,PM10
+2023-02-15,Pune,Maharashtra,15,Good,NO2
+2023-02-15,Mumbai,Maharashtra,52,Satisfactory,PM10
+2023-02-15,Ahmedabad,Gujarat,50,Good,PM2.5
+2023-02-15,Bengaluru,Karnataka,22,Good,PM2.5
+2023-02-15,Chennai,Tamil Nadu,16,Good,PM10
+2023-02-15,Hyderabad,Telangana,48,Good,CO
+2023-02-15,Lucknow,Uttar Pradesh,61,Satisfactory,O3
+2023-03-15,Delhi,Delhi,89,Satisfactory,PM10
+2023-03-15,Pune,Maharashtra,29,Good,PM2.5
+2023-03-15,Mumbai,Maharashtra,32,Good,PM2.5
+2023-03-15,Ahmedabad,Gujarat,112,Moderate,PM10
+2023-03-15,Bengaluru,Karnataka,15,Good,NO2
+2023-03-15,Chennai,Tamil Nadu,15,Good,NO2
+2023-03-15,Hyderabad,Telangana,42,Good,PM2.5
+2023-03-15,Lucknow,Uttar Pradesh,46,Good,NO2
+2023-04-15,Delhi,Delhi,41,Good,PM10
+2023-04-15,Pune,Maharashtra,15,Good,NO2
+2023-04-15,Mumbai,Maharashtra,85,Satisfactory,PM2.5
+2023-04-15,Ahmedabad,Gujarat,28,Good,PM10
+2023-04-15,Bengaluru,Karnataka,15,Good,PM10
+2023-04-15,Chennai,Tamil Nadu,78,Satisfactory,PM2.5
+2023-04-15,Hyderabad,Telangana,15,Good,NO2
+2023-04-15,Lucknow,Uttar Pradesh,137,Moderate,PM2.5
+2023-05-15,Delhi,Delhi,85,Satisfactory,PM2.5
+2023-05-15,Pune,Maharashtra,68,Satisfactory,PM2.5
+2023-05-15,Mumbai,Maharashtra,23,Good,O3
+2023-05-15,Ahmedabad,Gujarat,60,Satisfactory,PM2.5
+2023-05-15,Bengaluru,Karnataka,15,Good,PM2.5
+2023-05-15,Chennai,Tamil Nadu,19,Good,PM2.5
+2023-05-15,Hyderabad,Telangana,40,Good,PM2.5
+2023-05-15,Lucknow,Uttar Pradesh,76,Satisfactory,PM10
+2023-06-15,Delhi,Delhi,118,Moderate,PM2.5
+2023-06-15,Pune,Maharashtra,46,Good,O3
+2023-06-15,Mumbai,Maharashtra,31,Good,PM2.5
+2023-06-15,Ahmedabad,Gujarat,67,Satisfactory,PM2.5
+2023-06-15,Bengaluru,Karnataka,69,Satisfactory,PM2.5
+2023-06-15,Chennai,Tamil Nadu,25,Good,PM2.5
+2023-06-15,Hyderabad,Telangana,61,Satisfactory,PM2.5
+2023-06-15,Lucknow,Uttar Pradesh,114,Moderate,PM2.5
+2023-07-15,Delhi,Delhi,127,Moderate,PM2.5
+2023-07-15,Pune,Maharashtra,68,Satisfactory,O3
+2023-07-15,Mumbai,Maharashtra,22,Good,NO2
+2023-07-15,Ahmedabad,Gujarat,76,Satisfactory,PM10
+2023-07-15,Bengaluru,Karnataka,22,Good,PM2.5
+2023-07-15,Chennai,Tamil Nadu,38,Good,PM10
+2023-07-15,Hyderabad,Telangana,91,Satisfactory,PM10
+2023-07-15,Lucknow,Uttar Pradesh,79,Satisfactory,PM10
+2023-08-15,Delhi,Delhi,122,Moderate,PM2.5
+2023-08-15,Pune,Maharashtra,15,Good,PM2.5
+2023-08-15,Mumbai,Maharashtra,93,Satisfactory,PM2.5
+2023-08-15,Ahmedabad,Gujarat,91,Satisfactory,PM2.5
+2023-08-15,Bengaluru,Karnataka,28,Good,PM10
+2023-08-15,Chennai,Tamil Nadu,36,Good,O3
+2023-08-15,Hyderabad,Telangana,69,Satisfactory,PM10
+2023-08-15,Lucknow,Uttar Pradesh,114,Moderate,PM10
+2023-09-15,Delhi,Delhi,138,Moderate,PM10
+2023-09-15,Pune,Maharashtra,45,Good,PM10
+2023-09-15,Mumbai,Maharashtra,31,Good,PM2.5
+2023-09-15,Ahmedabad,Gujarat,74,Satisfactory,PM2.5
+2023-09-15,Bengaluru,Karnataka,29,Good,NO2
+2023-09-15,Chennai,Tamil Nadu,26,Good,PM10
+2023-09-15,Hyderabad,Telangana,53,Satisfactory,PM10
+2023-09-15,Lucknow,Uttar Pradesh,83,Satisfactory,O3
+2023-10-15,Delhi,Delhi,93,Satisfactory,CO
+2023-10-15,Pune,Maharashtra,15,Good,PM10
+2023-10-15,Mumbai,Maharashtra,45,Good,NO2
+2023-10-15,Ahmedabad,Gujarat,24,Good,PM2.5
+2023-10-15,Bengaluru,Karnataka,15,Good,PM2.5
+2023-10-15,Chennai,Tamil Nadu,32,Good,PM10
+2023-10-15,Hyderabad,Telangana,50,Good,PM10
+2023-10-15,Lucknow,Uttar Pradesh,72,Satisfactory,NO2
+2023-11-15,Delhi,Delhi,170,Moderate,PM10
+2023-11-15,Pune,Maharashtra,38,Good,O3
+2023-11-15,Mumbai,Maharashtra,109,Moderate,PM2.5
+2023-11-15,Ahmedabad,Gujarat,151,Moderate,PM10
+2023-11-15,Bengaluru,Karnataka,96,Satisfactory,NO2
+2023-11-15,Chennai,Tamil Nadu,110,Moderate,PM2.5
+2023-11-15,Hyderabad,Telangana,105,Moderate,NO2
+2023-11-15,Lucknow,Uttar Pradesh,136,Moderate,PM2.5
+2023-12-15,Delhi,Delhi,156,Moderate,PM2.5
+2023-12-15,Pune,Maharashtra,99,Satisfactory,O3
+2023-12-15,Mumbai,Maharashtra,68,Satisfactory,PM2.5
+2023-12-15,Ahmedabad,Gujarat,152,Moderate,PM10
+2023-12-15,Bengaluru,Karnataka,54,Satisfactory,NO2
+2023-12-15,Chennai,Tamil Nadu,111,Moderate,PM2.5
+2023-12-15,Hyderabad,Telangana,133,Moderate,PM10
+2023-12-15,Lucknow,Uttar Pradesh,151,Moderate,PM2.5
+2024-01-15,Delhi,Delhi,218,Poor,PM10
+2024-01-15,Pune,Maharashtra,39,Good,PM10
+2024-01-15,Mumbai,Maharashtra,83,Satisfactory,PM2.5
+2024-01-15,Ahmedabad,Gujarat,147,Moderate,NO2
+2024-01-15,Bengaluru,Karnataka,43,Good,PM10
+2024-01-15,Chennai,Tamil Nadu,70,Satisfactory,PM2.5
+2024-01-15,Hyderabad,Telangana,113,Moderate,NO2
+2024-01-15,Lucknow,Uttar Pradesh,94,Satisfactory,CO
+2024-02-15,Delhi,Delhi,96,Satisfactory,PM2.5
+2024-02-15,Pune,Maharashtra,36,Good,PM2.5
+2024-02-15,Mumbai,Maharashtra,33,Good,PM2.5
+2024-02-15,Ahmedabad,Gujarat,55,Satisfactory,PM2.5
+2024-02-15,Bengaluru,Karnataka,15,Good,PM2.5
+2024-02-15,Chennai,Tamil Nadu,29,Good,PM2.5
+2024-02-15,Hyderabad,Telangana,25,Good,PM10
+2024-02-15,Lucknow,Uttar Pradesh,58,Satisfactory,PM2.5
+2024-03-15,Delhi,Delhi,115,Moderate,PM10
+2024-03-15,Pune,Maharashtra,15,Good,PM2.5
+2024-03-15,Mumbai,Maharashtra,15,Good,PM2.5
+2024-03-15,Ahmedabad,Gujarat,68,Satisfactory,O3
+2024-03-15,Bengaluru,Karnataka,15,Good,PM10
+2024-03-15,Chennai,Tamil Nadu,58,Satisfactory,PM2.5
+2024-03-15,Hyderabad,Telangana,15,Good,PM2.5
+2024-03-15,Lucknow,Uttar Pradesh,62,Satisfactory,PM10
+2024-04-15,Delhi,Delhi,97,Satisfactory,NO2
+2024-04-15,Pune,Maharashtra,15,Good,PM10
+2024-04-15,Mumbai,Maharashtra,15,Good,PM2.5
+2024-04-15,Ahmedabad,Gujarat,70,Satisfactory,CO
+2024-04-15,Bengaluru,Karnataka,15,Good,PM2.5
+2024-04-15,Chennai,Tamil Nadu,15,Good,PM2.5
+2024-04-15,Hyderabad,Telangana,31,Good,PM10
+2024-04-15,Lucknow,Uttar Pradesh,88,Satisfactory,PM2.5
+2024-05-15,Delhi,Delhi,81,Satisfactory,CO
+2024-05-15,Pune,Maharashtra,15,Good,NO2
+2024-05-15,Mumbai,Maharashtra,25,Good,PM10
+2024-05-15,Ahmedabad,Gujarat,59,Satisfactory,O3
+2024-05-15,Bengaluru,Karnataka,15,Good,PM10
+2024-05-15,Chennai,Tamil Nadu,51,Satisfactory,PM10
+2024-05-15,Hyderabad,Telangana,62,Satisfactory,PM2.5
+2024-05-15,Lucknow,Uttar Pradesh,61,Satisfactory,PM2.5
+2024-06-15,Delhi,Delhi,163,Moderate,PM2.5
+2024-06-15,Pune,Maharashtra,46,Good,PM2.5
+2024-06-15,Mumbai,Maharashtra,76,Satisfactory,PM2.5
+2024-06-15,Ahmedabad,Gujarat,78,Satisfactory,PM10
+2024-06-15,Bengaluru,Karnataka,37,Good,PM2.5
+2024-06-15,Chennai,Tamil Nadu,15,Good,PM10
+2024-06-15,Hyderabad,Telangana,27,Good,PM2.5
+2024-06-15,Lucknow,Uttar Pradesh,77,Satisfactory,PM10
+2024-07-15,Delhi,Delhi,142,Moderate,PM10
+2024-07-15,Pune,Maharashtra,53,Satisfactory,PM10
+2024-07-15,Mumbai,Maharashtra,42,Good,PM10
+2024-07-15,Ahmedabad,Gujarat,85,Satisfactory,NO2
+2024-07-15,Bengaluru,Karnataka,56,Satisfactory,PM2.5
+2024-07-15,Chennai,Tamil Nadu,45,Good,PM2.5
+2024-07-15,Hyderabad,Telangana,60,Satisfactory,PM10
+2024-07-15,Lucknow,Uttar Pradesh,87,Satisfactory,O3
+2024-08-15,Delhi,Delhi,113,Moderate,PM10
+2024-08-15,Pune,Maharashtra,25,Good,PM2.5
+2024-08-15,Mumbai,Maharashtra,28,Good,PM10
+2024-08-15,Ahmedabad,Gujarat,85,Satisfactory,PM2.5
+2024-08-15,Bengaluru,Karnataka,57,Satisfactory,PM2.5
+2024-08-15,Chennai,Tamil Nadu,37,Good,PM2.5
+2024-08-15,Hyderabad,Telangana,47,Good,PM2.5
+2024-08-15,Lucknow,Uttar Pradesh,39,Good,PM2.5
+2024-09-15,Delhi,Delhi,45,Good,NO2
+2024-09-15,Pune,Maharashtra,59,Satisfactory,PM2.5
+2024-09-15,Mumbai,Maharashtra,15,Good,PM2.5
+2024-09-15,Ahmedabad,Gujarat,15,Good,CO
+2024-09-15,Bengaluru,Karnataka,70,Satisfactory,NO2
+2024-09-15,Chennai,Tamil Nadu,15,Good,PM10
+2024-09-15,Hyderabad,Telangana,15,Good,PM2.5
+2024-09-15,Lucknow,Uttar Pradesh,67,Satisfactory,PM2.5
+2024-10-15,Delhi,Delhi,114,Moderate,PM10
+2024-10-15,Pune,Maharashtra,41,Good,PM2.5
+2024-10-15,Mumbai,Maharashtra,52,Satisfactory,CO
+2024-10-15,Ahmedabad,Gujarat,25,Good,NO2
+2024-10-15,Bengaluru,Karnataka,43,Good,PM2.5
+2024-10-15,Chennai,Tamil Nadu,60,Satisfactory,PM2.5
+2024-10-15,Hyderabad,Telangana,71,Satisfactory,NO2
+2024-10-15,Lucknow,Uttar Pradesh,71,Satisfactory,PM10
+2024-11-15,Delhi,Delhi,150,Moderate,PM2.5
+2024-11-15,Pune,Maharashtra,78,Satisfactory,PM2.5
+2024-11-15,Mumbai,Maharashtra,55,Satisfactory,PM2.5
+2024-11-15,Ahmedabad,Gujarat,101,Moderate,PM10
+2024-11-15,Bengaluru,Karnataka,15,Good,PM2.5
+2024-11-15,Chennai,Tamil Nadu,47,Good,NO2
+2024-11-15,Hyderabad,Telangana,106,Moderate,PM10
+2024-11-15,Lucknow,Uttar Pradesh,123,Moderate,NO2
+2024-12-15,Delhi,Delhi,165,Moderate,PM2.5
+2024-12-15,Pune,Maharashtra,107,Moderate,PM2.5
+2024-12-15,Mumbai,Maharashtra,104,Moderate,PM10
+2024-12-15,Ahmedabad,Gujarat,122,Moderate,NO2
+2024-12-15,Bengaluru,Karnataka,72,Satisfactory,O3
+2024-12-15,Chennai,Tamil Nadu,71,Satisfactory,NO2
+2024-12-15,Hyderabad,Telangana,68,Satisfactory,PM10
+2024-12-15,Lucknow,Uttar Pradesh,117,Moderate,PM2.5

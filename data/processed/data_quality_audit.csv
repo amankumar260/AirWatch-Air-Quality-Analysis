@@ -1,0 +1,9 @@
+,value
+rows_after_cleaning,288
+date_min,2022-01-15
+date_max,2024-12-15
+cities,8
+missing_cells_after_cleaning,0
+duplicate_rows_after_cleaning,0
+mean_aqi,65.29
+median_aqi,60.0

@@ -1,0 +1,9 @@
+city,observations,mean_aqi,median_aqi,min_aqi,max_aqi
+Delhi,36,118.22,117.0,41,218
+Lucknow,36,87.06,78.5,22,151
+Ahmedabad,36,78.81,74.5,15,152
+Hyderabad,36,59.22,56.5,15,133
+Mumbai,36,49.5,41.0,15,148
+Pune,36,46.22,41.0,15,129
+Chennai,36,45.67,36.5,15,111
+Bengaluru,36,37.64,25.0,15,98
